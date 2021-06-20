@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1616761255 source:c:\users\asus\desktop\project\geneticalgorithm\main.cpp
-	<iostream>
-	<string>
-	<fstream>
-	<sstream>
-	<vector>
-	<algorithm>
-
